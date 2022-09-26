@@ -1,7 +1,7 @@
 
 # Code to create a table
 create table students(
-	roll_no int primary key,
+    roll_no int primary key,
     name varchar(30) not null,
     department varchar(30) not null,
     age int not null
