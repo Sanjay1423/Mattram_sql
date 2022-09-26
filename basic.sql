@@ -12,7 +12,7 @@ insert into students values(1,'Jeshwin','ECE',18),
 			   (2,'Iyyapan','BIO',17),
                            (3,'Ajith','MECH',20),
                            (4,'Vignesh','IT',19),
-                           (5,'Anand','ECE',21)
+                           (5,'Anand','ECE',21),
                            (6,'Rajesh','CSE',17);
 
 # Code to describe a table                           
