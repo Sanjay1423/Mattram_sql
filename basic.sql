@@ -9,7 +9,7 @@ create table students(
 
 # Code to insert a  table
 insert into students values(1,'Jeshwin','ECE',18),
-						   (2,'Iyyapan','BIO',17),
+			   (2,'Iyyapan','BIO',17),
                            (3,'Ajith','MECH',20),
                            (4,'Vignesh','IT',19),
                            (5,'Anand','ECE',21)
